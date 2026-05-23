@@ -56,7 +56,7 @@
 
 ---
 
-### Task 5: Interactive Business Dashboard (Streamlit)
+### Task 3: Interactive Business Dashboard (Streamlit)
 **Objective:** Build an interactive dashboard to analyze sales, profit, and customer performance.
 **Dataset:** Global Superstore Dataset (Kaggle)
 
@@ -95,7 +95,7 @@
 2. Run all cells from top to bottom
 3. Kaggle credentials required for dataset download (kagglehub will prompt on first run)
 
-### Task 5 (Streamlit Dashboard)
+### Task 3 (Streamlit Dashboard)
 1. Open `task5_colab.ipynb` in Google Colab
 2. Run all cells in order
 3. Add your ngrok token in the secrets panel (key icon in Colab sidebar)
