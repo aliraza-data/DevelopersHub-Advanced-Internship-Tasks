@@ -1,4 +1,4 @@
-# DevelopersHub Corporation — Data Science & Analytics Advanced Internship
+# DevelopersHub Corporation: Data Science & Analytics Advanced Internship
 
 **Intern:** Ali Raza
 **Program:** Data Science & Analytics Advanced Internship
@@ -24,7 +24,7 @@
 - Top predictors: call duration, month of contact, account balance, age, job type
 - Best months to contact customers: March, September, October, December
 
-**File:** `task1_term_deposit.ipynb`
+**File:** `term_deposit.ipynb`
 
 ---
 
@@ -52,7 +52,7 @@
 | 3 | High | Low | Premium quality messaging |
 | 4 | High | High | VIP programs |
 
-**File:** `task2_segmentation.ipynb`
+**File:** `customer_segmentation.ipynb`
 
 ---
 
@@ -74,7 +74,7 @@
 - Top 5 customers contribute a significant share of total revenue
 - Regional filters reveal performance gaps across markets
 
-**File:** `task5_colab.ipynb`
+**File:** `streamlit_dashboard.ipynb`
 
 ---
 
