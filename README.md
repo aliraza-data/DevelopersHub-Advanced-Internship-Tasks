@@ -1,4 +1,4 @@
-# DevelopersHub Corporation — Data Science & Analytics Advanced Internship
+# DevelopersHub Corporation: Data Science & Analytics Advanced Internship
 
 **Intern:** Ali Raza
 **Program:** Data Science & Analytics Advanced Internship
